@@ -1,0 +1,2 @@
+AddEventHandler('playerDropped', function()
+end)
